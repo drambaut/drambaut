@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Rambaut;Data+Scientist+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 > *"Exploring the fascinating world of artificial intelligence and machine learning"*
 
-- 🔭 Currently working on [Opensc](https://github.com/opensc-org)
+- 🔭 Currently working on [Cobre](https://www.cobre.com/)
 - 🌱 Learning about LLMs and AI applications
 - 💬 Ask me about Python, data science, and pipelines
 - 📫 Reach me at: rambautlemusdanielfelipe@gmail.com
